@@ -6,6 +6,14 @@
 
 适合故障排查、持续优化、自动化流程和需要明确验收条件的复杂任务。
 
+## 安装
+
+```bash
+npx skills add https://github.com/ChicKo1108/Single-agent-loop-prompt-skill --skill single-agent-loop-prompt
+```
+
+> 安装命令中请使用纯 URL，不要使用 Markdown 格式的 `[名称](URL)`。
+
 ## 使用
 
 安装后，在 Codex 中输入：
