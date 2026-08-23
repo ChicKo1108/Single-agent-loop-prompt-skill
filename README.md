@@ -1,5 +1,9 @@
 # Loop Prompt Skill
 
+[![Agent Skills Standard](https://img.shields.io/badge/Agent%20Skills-Standard-6B21A8)](https://agentskills.io)
+[![skills.sh Compatible](https://img.shields.io/badge/skills.sh-Compatible-0284C7)](https://skills.sh)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 用于创建可持续执行的单智能体 Loop 提示词。
 
 它会先逐步询问任务目标、成功标准、可执行范围、重试规则和停止条件，再生成一份可直接使用的提示词，让智能体按“观察 → 判断 → 最小行动 → 验证 → 记录”的闭环持续推进任务。
