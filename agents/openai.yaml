@@ -1,0 +1,4 @@
+interface:
+  display_name: "Single-Agent Loop Prompt"
+  short_description: "通过原子化追问生成可验证、可停止、可留痕的 Loop 提示词"
+  default_prompt: "使用 $single-agent-loop-prompt 先逐步追问我，再为当前任务生成可执行的单 Agent Loop 提示词。"
